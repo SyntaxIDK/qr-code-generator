@@ -1,0 +1,16 @@
+{
+  "name": "qrgenerator",
+  "version": "1.0.0",
+  "description": "QR code generator beginner project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaveesha",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.1.2",
+    "qr-image": "^3.2.0"
+  }
+}
